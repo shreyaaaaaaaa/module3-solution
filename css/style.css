@@ -78,7 +78,7 @@ p{
         border-width: 0 0 1px;
     }
     .navbar-collapse.collapse {
-        display: none!important;
+        display:;
     }
     .navbar-nav {
         float: none!important;
